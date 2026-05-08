@@ -11,7 +11,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        <!-- Java 17 räcker för testerna och fungerar bra i GitHub Actions. -->
+        <!-- Java 17 (från vad jag sett så räcker det för testerna och fungerar bra i GitHub Actions.) -->
         <maven.compiler.release>17</maven.compiler.release>
 
         <junit.version>5.10.2</junit.version>
